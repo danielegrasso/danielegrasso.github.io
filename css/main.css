@@ -41,7 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-card.w3-card {
+w3-card {
     border: 1px 
     solid #ccc
     width: 150px;
