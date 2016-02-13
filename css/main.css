@@ -41,9 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-w3-card {
-    border: 1px 
-    solid #ccc
+card {
+    border: 5px 
+    solid #FF0000
     width: 150px;
     height: 100px;
     margin: 16px;
