@@ -48,3 +48,10 @@ ul.posts li {
     margin: 16px;
     padding: 16px;
     }
+.card_two {
+    color: red;
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    padding: 16px;
+    }
