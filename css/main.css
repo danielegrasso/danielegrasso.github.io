@@ -43,11 +43,8 @@ ul.posts li {
 }
 .card {
     color: red;
-    width: 70%;
+    width: 100px;
     height: 100px;
     margin: 16px;
     padding: 16px;
-    border-size:2px;
-    border-style:solid;
-    border-color:black;
 }
