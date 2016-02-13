@@ -47,4 +47,5 @@ ul.posts li {
     height: 100px;
     margin: 16px;
     padding: 16px;
+    style ="border: thin solid black";
 }
