@@ -41,7 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-card {
+card.style {
     border: 5px 
     solid #FF0000
     width: 150px;
