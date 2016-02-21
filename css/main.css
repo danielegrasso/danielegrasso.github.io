@@ -27,12 +27,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-p.sub {
-    font-size: 1em;
-    line-height: 1.4em;
-    color: #333;
-    font-style:italic;
-}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -63,3 +58,9 @@ ul.posts li {
     padding: 16px;
     /*float:left;*/
     }
+p.sub {
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+    font-style:italic;
+}
