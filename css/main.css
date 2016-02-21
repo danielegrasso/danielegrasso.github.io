@@ -45,7 +45,7 @@ ul.posts li {
     color: red;
     width: 100px;
     height: 100px;
-    margin: 16px;
+   /* margin: 16px;*/
     padding: 16px;
     margin-right: 20px;
     float: left;
@@ -54,7 +54,7 @@ ul.posts li {
     color: blue;
     width: 100px;
     height: 100px;
-    margin-left: 40px;
+    /*margin-left: 40px;*/
     padding: 16px;
-    float:left;
+    /*float:left;*/
     }
